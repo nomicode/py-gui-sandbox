@@ -1,0 +1,9 @@
+{
+  // "image": "",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {},
+  "extensions": [],
+  "remoteUser": "vscode"
+}
