@@ -1,2 +1,3 @@
-# py-gui
-Python GUI experiments
+# Python GUIs
+
+_Python GUI experiments_
